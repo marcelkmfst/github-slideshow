@@ -1,6 +1,6 @@
 3.	---
 4.	
-5.	layout: slide
+5.	layout: fided this # did nto work
 6.	
 7.	title: "Welcome to our second slide!"
 8.	
